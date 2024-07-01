@@ -8,4 +8,6 @@ Whether you're organizing your daily agenda or tackling long-term projects, Task
 
 🔄 Persistent Storage: Say goodbye to lost tasks! With TaskVault's robust local storage support, your todos are securely stored, ensuring seamless continuity across sessions. Your tasks stay safe and accessible whenever and wherever you need them.
 
-🔧 Getting Started: To launch TaskVault, simply run npm run dev in your terminal to start the development server.
+## Link to the web app
+
+[TaskVault](https://task-vault-react.netlify.app)
