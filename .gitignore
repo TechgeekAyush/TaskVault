@@ -1,0 +1,10 @@
+node_modules/
+dist/
+build/
+public/
+.eslintcache
+vite.config.js
+postcss.config.js
+tailwind.config.js
+package-lock.json
+.DS_Store

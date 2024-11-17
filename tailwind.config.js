@@ -4,8 +4,10 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  theme: {
-    extend: {},
+  daisyui: {
+    themes: ["corporate", "black"],
   },
-  plugins: [],
+  plugins: [
+    require('daisyui'),
+  ],
 }
